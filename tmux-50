@@ -1,0 +1,49 @@
+name: Run tmux sessions
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-sessions:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install tmux
+      run: sudo apt-get install -y tmux
+
+    - name: Run tmux sessions
+      run: |
+        #!/bin/bash
+
+        files=("230117" "230118" "230119" "230120" "230121")
+        for file in "${files[@]}"; do
+          wget -nH -m --ftp-user=if0_37965025 --ftp-password=98kDsIA4LJEZ "ftp://185.27.134.11/htdocs/$file/*"
+          cp htdocs/$file/* ./
+          wget https://raw.githubusercontent.com/MoeClub/OneList/master/OneDriveUploader/amd64/linux/OneDriveUploader -P /usr/local/bin/
+          chmod +x /usr/local/bin/OneDriveUploader
+
+        done
+
+        for session_num in {1..50}; do
+            tmux new-session -d -s "session_$session_num"
+            tmux send-keys -t "session_$session_num" "for i in {1..1}; do sleep \$((RANDOM % 50 + 1))m; bash drive555.sh; done" C-m
+        done
+
+        # 列出所有会话
+        tmux ls
+
+        # 检查所有会话是否在运行
+        if tmux ls | grep -q "session_"; then
+          echo "所有 tmux 会话均已成功启动。"
+        else
+          echo "未能启动所有 tmux 会话。"
+          exit 1
+        fi
+        
+        # 保持工作流运行状态
+        sleep infinity
