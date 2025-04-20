@@ -189,6 +189,9 @@ BODY {
 <a href="https://nofoluekkxze.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager</a>|
 <a href="https://pfslzkeevrbe.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager2</a>|
 
+<a href="https://eqtclwizpnoc.ap-southeast-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-onemanager3</a>|
+
+
  </div></td><td>
 </td></tr></tbody><tbody>
     <tr>
