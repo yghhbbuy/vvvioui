@@ -337,7 +337,7 @@ xshellz</a>|
 <a href="https://login.zcygov.cn/user-login/#/login" style="color:#FF00FF" target="_blank">政采云</a>|
 <a href="http://www.williamlong.info/" style="color:#FF00FF" target="_blank">月光博客</a>|
 <a href="https://ide.goorm.io/" style="color:#FF00FF" target="_blank">goorm</a>|<a href="https://dashboard.ngrok.com/get-started/setup" style="color:#FF00FF" target="_blank">ngrok</a>|<a href="https://easypdf.com/" style="color:#FF00FF" target="_blank">转换pdf</a>|<a href="https://xin.baidu.com/" style="color:#FF00FF" target="_blank">百度信用</a>|
-<a href="https://i.xunlei.com/xluser/login.html" style="color:#FF00FF" target="_blank">迅雷云</a>|<a href="https://zhuanlan.zhihu.com/p/352736372" style="color:#FF00FF" target="_blank">甲骨文教程</a>|<a href="https://colab.research.google.com/notebooks/intro.ipynb?authuser=1#scrollTo=5fCEDCU_qrC0" style="color:#FF00FF" target="_blank">G计算平台</a>|
+<a href="https://i.xunlei.com/xluser/login.html" style="color:#FF00FF" target="_blank">迅雷云</a>|<a href="https://colab.research.google.com/notebooks/intro.ipynb?authuser=1#scrollTo=5fCEDCU_qrC0" style="color:#FF00FF" target="_blank">G计算平台</a>|
 <a href="https://notebooks.edge.devcloud.intel.com/" style="color:#FF00FF" target="_blank">平台intel</a>|
 <a href="https://jdssl.top/index.php/2023/07/21/2023vpn/" style="color:#FF00FF" target="_blank">2023最佳免费vpn方式</a>|
 
