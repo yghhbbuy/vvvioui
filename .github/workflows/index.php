@@ -49,6 +49,7 @@ BODY {
 
 <a href="http://amer008.great-site.net" style="color:#FF00FF" target="_blank">drive-1</a>|
 <a href="http://ttt0090.rf.gd" style="color:#FF00FF" target="_blank">drive2</a>|
+<a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
 <a href="https://raw.githubusercontent.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/main/nomachine-windows10.sh" style="color:#FF00FF" target="_blank">windows10</a>|
 <a href="https://koyeb.ttt009000herokuappcom.workers.dev/" style="color:#FF00FF" target="_blank">koyeb</a>|
 
