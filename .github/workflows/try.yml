@@ -26,6 +26,6 @@ jobs:
           wget https://raw.githubusercontent.com/MoeClub/OneList/master/OneDriveUploader/amd64/linux/OneDriveUploader -P /usr/local/bin/
           chmod +x /usr/local/bin/OneDriveUploader
         done
-          bash drive33311.sh
+          
           /usr/local/bin/OneDriveUploader -c admin428.json -s "htdocs"
       
