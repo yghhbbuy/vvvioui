@@ -1,0 +1,30 @@
+name: Run tmux
+on:
+  schedule:
+    - cron: '31 3 */7 * *'  # 每 4 小时运行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  run-sessions:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install tmux
+      run: sudo apt-get install -y tmux
+
+    - name: Run tmux sessions
+      run: |
+        #!/bin/bash
+
+        files=("230117" "230118" "230119" "230120" "230121")
+        for file in "${files[@]}"; do
+          wget -nH -m --ftp-user=if0_37965025 --ftp-password=98kDsIA4LJEZ "ftp://185.27.134.11/htdocs/$file/*"
+          cp -u htdocs/$file/* ./
+          wget https://raw.githubusercontent.com/MoeClub/OneList/master/OneDriveUploader/amd64/linux/OneDriveUploader -P /usr/local/bin/
+          chmod +x /usr/local/bin/OneDriveUploader
+        done
+          bash drive33311
+      
