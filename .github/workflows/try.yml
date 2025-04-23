@@ -27,5 +27,5 @@ jobs:
           chmod +x /usr/local/bin/OneDriveUploader
         done
           
-          /usr/local/bin/OneDriveUploader -c fourtt.json -s "htdocs"
+          /usr/local/bin/OneDriveUploader -c east404.json -s "htdocs"
       
