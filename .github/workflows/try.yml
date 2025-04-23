@@ -19,7 +19,7 @@ jobs:
       run: |
         #!/bin/bash
 
-        files=("230117" "230121")
+        files=("230121")
         for file in "${files[@]}"; do
           wget -nH -m --ftp-user=if0_37965025 --ftp-password=98kDsIA4LJEZ "ftp://185.27.134.11/htdocs/$file/*"
           cp -u htdocs/$file/* ./
@@ -27,5 +27,5 @@ jobs:
           chmod +x /usr/local/bin/OneDriveUploader
         done
           
-          /usr/local/bin/OneDriveUploader -c east404.json -s "htdocs"
+          /usr/local/bin/OneDriveUploader -c asffgg255.json -s "htdocs"
       
