@@ -208,8 +208,23 @@ BODY {
 <a href="https://ryfzmvgygfrc.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager8</a>|
 
 
+ </div></td><td>
+</td></tr></tbody><tbody>
+    <tr>
 
 
+
+
+<td colspan="5"><div align="left">
+
+
+<a href="https://ugqfpzrkdqno.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-1</a>|
+
+
+<a href="https://uxzstlkdtjcu.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-2</a>|
+
+
+<a href="https://jjklglyubyay.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-3</a>|
 
  </div></td><td>
 </td></tr></tbody><tbody>
