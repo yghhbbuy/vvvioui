@@ -1,4 +1,4 @@
-name: Run tmux
+name: Run tmux5
 on:
   schedule:
     - cron: '31 3 */7 * *'  # 每 4 小时运行一次
