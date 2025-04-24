@@ -234,6 +234,16 @@ BODY {
 
 <a href="https://ghaxizyggruj.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-5</a>|
 
+<a href="https://tdwhefxaztjv.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-6</a>|
+
+<a href="https://brlvdejsgukd.ap-southeast-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-7</a>|
+
+<a href="https://fjxzgitucnve.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-8</a>|
+
+
+<a href="https://gsbfccbbeheu.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-9</a>|
+
+<a href="https://pzbwniqpavzx.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-10</a>|
 
 
  </div></td><td>
