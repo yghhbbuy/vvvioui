@@ -305,7 +305,16 @@ BODY {
 <a href="https://lcjjiglcsxei.eu-central-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-39</a>|
 
 <a href="https://ugxcpgfvvaso.eu-central-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-40</a>|
+<a href="https://pksxgqmvakrj.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-41</a>|
+<a href="https://xjuqvqplatfl.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-42</a>|
 
+<a href="https://tpvoyoollkjb.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-43</a>|
+<a href="https://vqyodusentmy.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-44</a>|
+<a href="https://dfaqsdibnnbm.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-45</a>|
+
+<a href="https://jeppkdfyqoyg.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-46</a>|
+
+<a href="https://zyvtyfbgdiuj.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-47</a>|
 
  </div></td><td>
 </td></tr></tbody><tbody>
