@@ -50,6 +50,9 @@ BODY {
 <a href="http://amer008.great-site.net" style="color:#FF00FF" target="_blank">drive-1</a>|
 <a href="http://ttt0090.rf.gd" style="color:#FF00FF" target="_blank">drive2</a>|
 <a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
+
+<a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
+<a href="https://app.multcloud.com/mc_project/task_list" style="color:#FF00FF" target="_blank">mu</a>|
 <a href="https://raw.githubusercontent.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/main/nomachine-windows10.sh" style="color:#FF00FF" target="_blank">windows10</a>|
 <a href="https://koyeb.ttt009000herokuappcom.workers.dev/" style="color:#FF00FF" target="_blank">koyeb</a>|
 
@@ -327,6 +330,15 @@ BODY {
 <a href="https://lpbdhdcyuenn.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-52</a>|
 
 <a href="https://lhnmeichxlsw.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-53</a>|
+<a href="https://nqgeatsyfnhm.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-54</a>|
+<a href="https://whgplqwrtfzw.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-55</a>|
+<a href="https://iyjlagqutsmp.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-56</a>|
+<a href="https://vgrzwszzivyy.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-57</a>|
+<a href="https://hbtgbiskfjcn.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-58</a>|
+<a href="https://draeilbeoeys.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-59</a>|
+<a href="https://jmftrlcthauv.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-60</a>|
+<a href="https://keqfszvrwxmv.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-61</a>|
+<a href="https://wgsdjovxqfof.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-62</a>|
 
  </div></td><td>
 </td></tr></tbody><tbody>
