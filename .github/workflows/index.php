@@ -360,6 +360,14 @@ BODY {
 <a href="https://eiramlfpjqvh.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-73-e</a>|
 <a href="https://ohfjnwugkgqx.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-74-w</a>|
 
+<a href="https://axaimoszjicr.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-75-w</a>|
+
+<a href="https://acmxhshdaxvn.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-76-j</a>|
+
+<a href="https://zhhjewepmzyx.eu-central-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-77-g</a>|
+
+
+
  </div></td><td>
 </td></tr></tbody><tbody>
     <tr>
