@@ -27,5 +27,5 @@ jobs:
           chmod +x /usr/local/bin/OneDriveUploader
         done
           wget -O wear409.json https://raw.githubusercontent.com/yghhbbuy/vvvioui/refs/heads/main/.github/workflows/auth.json
-          /usr/local/bin/OneDriveUploader -c tz210404.json -s "htdocs"
+          /usr/local/bin/OneDriveUploader -c that531.json -s "htdocs"
       
