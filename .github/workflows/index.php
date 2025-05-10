@@ -111,6 +111,7 @@ BODY {
 <a href="https://www.oracle.com/cn/cloud/free/" style="color:#FF00FF" target="_blank">甲骨文云</a>|
 <a href="https://www.cloudflare.com/zh-cn/" style="color:#ff00ff" target="_blank">cloudflare</a>|
 <a href="https://portal.office.com/" style="color:#FF00FF" target="_blank">office 365</a>|
+<a href="https://admin.microsoft.com" style="color:#FF00FF" target="_blank">admin</a>|
 
 <a href="https://shell.segfault.net/#/dashboard" style="color:#FF00FF" target="_blank">seg</a>|
 <a href="https://gologin.com" style="color:#FF00FF" target="_blank">gologin</a>|
