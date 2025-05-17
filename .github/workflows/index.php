@@ -374,6 +374,10 @@ BODY {
 <a href="https://oaixbbdhjlhg.eu-central-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-80-g</a>|
 
 <a href="https://dgbfevxfkmqe.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-81-j</a>|
+<a href="https://ptkhpzsfvszz.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-82</a>|
+
+<a href="https://vuzeysgurnwd.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-83</a>|
+
 
 
  </div></td><td>
@@ -434,11 +438,12 @@ hyperbeam</a>|
 <a href="https://webmail.alwaysdata.com/roundcube/?_task=mail&_mbox=INBOX" style="color:#FF00FF" target="_blank">mail-alwaysdata</a>|
 <a href="https://cloud.tencent.com/developer/article/1830512" style="color:#FF00FF" target="_blank">
 SSHwifty的部署</a>|<a href="https://newserv.freewha.com/freewha.cpanel" style="color:#FF00FF" target="_blank">
-freewha.cpanel</a>|<a href="https://phpmyadmin.alwaysdata.com/" style="color:#FF00FF" target="_blank">
-always-sql</a>|<a href="https://tsirtv.com/archives/1" style="color:#FF00FF" target="_blank">
-搭建在线ssh</a>|
+freewha.cpanel</a>|
+<a href="https://phpmyadmin.alwaysdata.com/" style="color:#FF00FF" target="_blank">
+always-sql</a>|
 <a href="https://www.gitpod.io/" style="color:#FF00FF" target="_blank">
-gitpod</a>|<a href="https://deepnote.com/" style="color:#FF00FF" target="_blank">
+gitpod</a>|
+<a href="https://deepnote.com/" style="color:#FF00FF" target="_blank">
 deepnote</a>|<a href="https://sshkit.com/" style="color:#FF00FF" target="_blank">
 sshkit</a>|<a href="https://www.xshellz.com/signup" style="color:#FF00FF" target="_blank">
 xshellz</a>|
