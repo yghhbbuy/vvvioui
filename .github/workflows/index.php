@@ -210,7 +210,6 @@ BODY {
 <a href="https://textbilxajky.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager7</a>|
 
 
-<a href="https://ryfzmvgygfrc.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager8</a>|
 
 
  </div></td><td>
@@ -375,6 +374,8 @@ BODY {
 <a href="https://oaixbbdhjlhg.eu-central-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-80-g</a>|
 
 <a href="https://dgbfevxfkmqe.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-81-j</a>|
+
+<a href="https://ddkjofwxqjig.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-one</a>|
 
 
 
