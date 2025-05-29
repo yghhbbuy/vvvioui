@@ -189,9 +189,6 @@ BODY {
 <a href="https://diyxdftisyhs.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-12</a>|
 
 <a href="https://llbojhukhbds.ap-southeast-1.clawcloudrun.com/User/Home" style="color:#FF00FF" target="_blank">claw-13</a>|
-<a href="https://moskvwfscnnn.us-east-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-sshwifty</a>|
-
-<a href="https://tgsvycrvhonm.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-sshwifty2</a>|
 
 <a href="https://nofoluekkxze.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager</a>|
 
