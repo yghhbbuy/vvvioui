@@ -53,7 +53,6 @@ BODY {
 
 <a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
 
-<a href="https://y00dtxs0wvgst.alwaysdata.net/" style="color:#FF00FF" target="_blank">new-2506</a>|
 
 <a href="https://app.multcloud.com/mc_project/task_list" style="color:#FF00FF" target="_blank">mu</a>|
 <a href="https://raw.githubusercontent.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/main/nomachine-windows10.sh" style="color:#FF00FF" target="_blank">windows10</a>|
