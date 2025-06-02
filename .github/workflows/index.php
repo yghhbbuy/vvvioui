@@ -196,14 +196,14 @@ BODY {
 
 
 
-<a href="https://nkvaztmjnmmc.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager4</a>|
+<a href="https://nkvaztmjnmmc.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager1</a>|
 
 
 
-<a href="https://nrvepfmdxloo.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager6</a>|
+<a href="https://vuzeysgurnwd.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager2</a>|
 
 
-<a href="https://textbilxajky.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager7</a>|
+<a href="https://textbilxajky.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-onemanager3</a>|
 
 <a href="https://hdvpbtxulgrh.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-ssh</a>|
 
