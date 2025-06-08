@@ -54,6 +54,8 @@ BODY {
 <a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
 
 <a href="https://fff0090.free.nf/index.php" style="color:#FF00FF" target="_blank">fff0090</a>|
+<a href="https://ddd0090.free.nf" style="color:#FF00FF" target="_blank">ddd0090</a>|
+<a href="https://ttt0090.free.nf" style="color:#FF00FF" target="_blank">ttt0090</a>|
 
 
 <a href="https://app.multcloud.com/mc_project/task_list" style="color:#FF00FF" target="_blank">mu</a>|
