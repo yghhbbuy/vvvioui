@@ -173,7 +173,7 @@ BODY {
 
 
 <a href="https://console.run.claw.cloud/" style="color:#FF00FF" target="_blank">claw</a>|
-<a href="https://zhhjewepmzyx.eu-central-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-1</a>|
+<a href="https://rcoldendghla.ap-southeast-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-1</a>|
 <a href="https://zlujuwgqpkbp.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-2</a>|
 
 <a href="https://ptkhpzsfvszz.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-3</a>|
