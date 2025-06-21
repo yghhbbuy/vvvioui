@@ -59,6 +59,7 @@ BODY {
 <a href="https://aaa0090.free.nf" style="color:#FF00FF" target="_blank">aaa0090</a>|
 <a href="https://tttt.free.nf" style="color:#FF00FF" target="_blank">tttt</a>|
 
+<a href="https://ttt0090.hostingem.ru" style="color:#FF00FF" target="_blank">hostingem</a>|
 
 <a href="https://app.multcloud.com/mc_project/task_list" style="color:#FF00FF" target="_blank">mu</a>|
 <a href="https://raw.githubusercontent.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/main/nomachine-windows10.sh" style="color:#FF00FF" target="_blank">windows10</a>|
