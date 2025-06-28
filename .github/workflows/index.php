@@ -59,6 +59,8 @@ BODY {
 <a href="https://aaa0090.free.nf" style="color:#FF00FF" target="_blank">aaa0090</a>|
 <a href="https://tttt.free.nf" style="color:#FF00FF" target="_blank">tttt</a>|
 
+<a href="https://tpwhokyoqnxs.cloud.cloudcat.one/" style="color:#FF00FF" target="_blank">cloudcat</a>|
+
 <a href="https://ttt0090.hostingem.ru" style="color:#FF00FF" target="_blank">hostingem</a>|
 <a href="http://ttt0090.my-place.us" style="color:#FF00FF" target="_blank">place</a>|
 
