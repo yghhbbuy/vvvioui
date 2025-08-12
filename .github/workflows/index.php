@@ -230,7 +230,7 @@ BODY {
 
 <a href="https://brlvdejsgukd.ap-southeast-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-7</a>|
 
-<a href="https://fjxzgitucnve.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-8</a>|
+<a href="https://lpvkiiiavlhs.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-8</a>|
 
 
 <a href="https://gsbfccbbeheu.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-9</a>|
