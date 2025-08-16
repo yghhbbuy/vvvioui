@@ -54,9 +54,9 @@ BODY {
 <a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
 
 <a href="https://fff0090.free.nf/index.php" style="color:#FF00FF" target="_blank">fff0090</a>|
-<a href="https://ddd0090.free.nf" style="color:#FF00FF" target="_blank">ddd0090</a>|
+<a href="https://rrr0090.free.nf" style="color:#FF00FF" target="_blank">ddd0090</a>|
 <a href="https://ttt0090.free.nf" style="color:#FF00FF" target="_blank">ttt0090</a>|
-<a href="https://aaa0090.free.nf" style="color:#FF00FF" target="_blank">aaa0090</a>|
+<a href="https://rrr0090.xo.je" style="color:#FF00FF" target="_blank">aaa0090</a>|
 <a href="https://tttt.free.nf" style="color:#FF00FF" target="_blank">tttt</a>|
 
 <a href="https://tpwhokyoqnxs.cloud.cloudcat.one/" style="color:#FF00FF" target="_blank">cloudcat</a>|
