@@ -341,18 +341,6 @@ BODY {
 
 <a href="https://kililppzxkty.eu-central-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-67</a>|
 
-<a href="https://ibhzsxbhgpyi.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-68</a>|
-<a href="https://svtoarlyiszn.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-69</a>|
-<a href="https://vgdlyoqvjcfd.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-70</a>|
-<a href="https://xqhurihpulxl.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-71</a>|
-<a href="https://vesbprkdrvwb.eu-central-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-72</a>|
-<a href="https://eiramlfpjqvh.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-73-e</a>|
-<a href="https://ohfjnwugkgqx.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-74-w</a>|
-
-<a href="https://axaimoszjicr.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-75-w</a>|
-
-<a href="https://acmxhshdaxvn.ap-northeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-76-j</a>|
-
 
 <a href="https://rcoldendghla.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-78-e</a>|
 
