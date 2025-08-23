@@ -61,6 +61,11 @@ BODY {
 
 <a href="https://kingpp869.alwaysdata.net/" style="color:#FF00FF" target="_blank">kingpp869</a>|
 
+<a href="https://amer008.alwaysdata.net/" style="color:#FF00FF" target="_blank">amer008</a>|
+
+
+
+
 <a href="https://tpwhokyoqnxs.cloud.cloudcat.one/" style="color:#FF00FF" target="_blank">cloudcat</a>|
 
 <a href="https://ttt0090.hostingem.ru" style="color:#FF00FF" target="_blank">hostingem</a>|
