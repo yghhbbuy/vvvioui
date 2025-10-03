@@ -148,6 +148,8 @@ BODY {
 <a href="https://gologin.com" style="color:#FF00FF" target="_blank">gologin</a>|
 <a href="https://phpmyadmin.alwaysdata.com/" style="color:#FF00FF" target="_blank">phpmy-alwaysdata</a>|
 
+<a href="https://admin.onedrive.com/?v=StorageSettings" style="color:#FF00FF" target="_blank">onedrive容量设置</a>|
+
 
  </div></td><td>
 </td></tr></tbody><tbody>
