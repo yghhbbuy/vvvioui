@@ -179,7 +179,6 @@ BODY {
 
 
 <td colspan="5"><div align="left"><a href="https://panel.vp0.cc/#/login" style="color:#FF00FF" target="_blank">bestvpn</a>|
-<a href="https://mover.io/" style="color:#FF00FF" target="_blank">mover</a>|
 <a href="https://www.camscanner.com/files/holder" style="color:#FF00FF" target="_blank">扫描全能王</a>|<a href="http://xkx.me/" style="color:#FF00FF" target="_blank">临箱</a>|<a href="https://yunduanxin.net/" style="color:#FF00FF" target="_blank">云短信</a>|
 <a href="https://showy-zesty-backbone.glitch.me/" style="color:#FF00FF" target="_blank">glitch-old</a>|
 <a href="https://app.apponfly.com/" style="color:#FF00FF" target="_blank">apponfly</a>|
