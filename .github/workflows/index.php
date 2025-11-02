@@ -54,10 +54,10 @@ BODY {
 <a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
 
 <a href="https://fff0090.free.nf/index.php" style="color:#FF00FF" target="_blank">fff0090</a>|
-<a href="https://bbb0090.free.nf/index.php" style="color:#FF00FF" target="_blank">bbb0090</a>|
-<a href="https://ccc0090.free.nf/index.php" style="color:#FF00FF" target="_blank">ccc0090</a>|
+<a href="https://bbb0090.free.nf/" style="color:#FF00FF" target="_blank">bbb0090</a>|
+<a href="https://ccc0090.free.nf/" style="color:#FF00FF" target="_blank">ccc0090</a>|
 
-<a href="https://jjj0090.free.nf/index.php" style="color:#FF00FF" target="_blank">jjj0090</a>|
+<a href="https://jjj0090.free.nf/" style="color:#FF00FF" target="_blank">jjj0090</a>|
 
 
 <a href="https://rrr0090.free.nf" style="color:#FF00FF" target="_blank">rrr0090.nf</a>|
