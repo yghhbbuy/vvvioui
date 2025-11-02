@@ -56,7 +56,6 @@ BODY {
 <a href="https://fff0090.free.nf/index.php" style="color:#FF00FF" target="_blank">fff0090</a>|
 <a href="https://rrr0090.free.nf" style="color:#FF00FF" target="_blank">rrr0090.nf</a>|
 <a href="https://ttt0090.free.nf" style="color:#FF00FF" target="_blank">ttt0090</a>|
-<a href="https://rrr0090.xo.je" style="color:#FF00FF" target="_blank">rrr0090.xo</a>|
 <a href="https://tttt.free.nf" style="color:#FF00FF" target="_blank">tttt</a>|
 
 <a href="https://kingpp869.alwaysdata.net/" style="color:#FF00FF" target="_blank">kingpp869</a>|
@@ -202,7 +201,6 @@ BODY {
 <a href="https://rcoldendghla.ap-southeast-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-1</a>|
 <a href="https://zlujuwgqpkbp.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-2</a>|
 
-<a href="https://ptkhpzsfvszz.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-3</a>|
 
 <a href="https://mfljubtlcniz.ap-southeast-1.clawcloudrun.com" style="color:#FF00FF" target="_blank">claw-4</a>|
 
