@@ -145,6 +145,8 @@ BODY {
 <a href="https://www.oracle.com/cn/cloud/free/" style="color:#FF00FF" target="_blank">甲骨文云</a>|
 <a href="https://www.cloudflare.com/zh-cn/" style="color:#ff00ff" target="_blank">cloudflare</a>|
 <a href="https://portal.office.com/" style="color:#FF00FF" target="_blank">office 365</a>|
+<a href="https://outlook.office.com/mail/?realm=54z5z7.onmicrosoft.com&login_hint=koyeb313@54z5z7.onmicrosoft.com/" style="color:#FF00FF" target="_blank">outlook 365</a>|
+
 <a href="https://admin.microsoft.com" style="color:#FF00FF" target="_blank">admin</a>|
 
 <a href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=19db86c3-b2b9-44cc-b339-36da233a3be2&redirect_uri=https%3A%2F%2Fmysignins.microsoft.com&scope=openid+profile+email+offline_access&response_type=code&response_mode=fragment&code_challenge=H7Xm46NmTcXpa7qG3IkN4u0XviQ-JLpPeQ4IhuOJ5pw&code_challenge_method=S256&state=ad88ab7a-577e-48a6-93f9-a6fc94fe996c" style="color:#FF00FF" target="_blank">addmin</a>|
