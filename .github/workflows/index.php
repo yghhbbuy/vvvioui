@@ -137,6 +137,11 @@ BODY {
 <a href="https://aistudio.google.com/prompts/new_chat" style="color:#FF00FF" target="_blank">ai集中</a>|
 <a href="https://gertanyioptty.alwaysdata.net" style="color:#FF00FF" target="_blank">show</a>|
 <a href="https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties" style="color:#FF00FF" target="_blank">双重认证</a>|
+
+<a href="https://signup.microsoft.com/get-started/signup?products=35dffc92-9eb4-4d5c-82c2-2582b37bb9c4&culture=zh-cn&country=cn" style="color:#FF00FF" target="_blank">e3-新注册</a>|
+
+<a href="https://admin.cloud.microsoft/?pid=C69E7747-2566-4897-8CBA-B998ED3BAB88&quan=25&bc=1&sku=189a915c-fe4f-4ffa-bde4-85b9628d07a0&ru=PDP#/Purchase/checkout" style="color:#FF00FF" target="_blank">25新号</a>|
+
 <a href="https://azure.microsoft.com/zh-cn/get-started/azure-portal/" style="color:#FF00FF" target="_blank">azure</a>|
 <a href="https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions" style="color:#FF00FF" target="_blank">有效期</a>|
 <a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile" style="color:#ff00ff" target="_blank">仪表板</a>|
