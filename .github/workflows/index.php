@@ -142,6 +142,9 @@ BODY {
 
 <a href="https://admin.cloud.microsoft/?pid=C69E7747-2566-4897-8CBA-B998ED3BAB88&quan=25&bc=1&sku=189a915c-fe4f-4ffa-bde4-85b9628d07a0&ru=PDP#/Purchase/checkout" style="color:#FF00FF" target="_blank">25新号</a>|
 
+<a href="https://admin.cloud.microsoft/?pid=C18B235E-8366-48B8-AE41-6E596C44944D&quan=2000000&bc=1&sku=6fd2c87f-b296-42f0-b197-1e91e994b900&ru=PDP#/Purchase/checkout" style="color:#FF00FF" target="_blank">200新号</a>|
+
+
 <a href="https://azure.microsoft.com/zh-cn/get-started/azure-portal/" style="color:#FF00FF" target="_blank">azure</a>|
 <a href="https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions" style="color:#FF00FF" target="_blank">有效期</a>|
 <a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile" style="color:#ff00ff" target="_blank">仪表板</a>|
