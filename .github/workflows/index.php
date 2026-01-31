@@ -3,7 +3,6 @@
 <title>baidu</title>
 <style>
 COLOR: #ffffff; LINE-HEIGHT: 14px; TEXT-DECORATION: none
-}
 .zleft A:link {52
 
 	COLOR: #ffffff; TEXT-DECORATION: none
@@ -58,7 +57,7 @@ BODY {
 <a href="https://ccc0090.free.nf/" style="color:#FF00FF" target="_blank">ccc0090</a>|
 
 <a href="https://yyyy.free.nf/" style="color:#FF00FF" target="_blank">yyyy</a>|
-<a href="https://zjhy.xo.je//" style="color:#FF00FF" target="_blank">zjhy</a>|
+<a href="https://zjhy.xo.je/" style="color:#FF00FF" target="_blank">zjhy</a>|
 
 
 <a href="https://kingpp869.alwaysdata.net/" style="color:#FF00FF" target="_blank">kingpp869</a>|
@@ -753,3 +752,4 @@ xshellz</a>|
 
 
 <!--下表结束--></body></html>
+
