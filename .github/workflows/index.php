@@ -3,6 +3,7 @@
 <title>baidu</title>
 <style>
 COLOR: #ffffff; LINE-HEIGHT: 14px; TEXT-DECORATION: none
+}
 .zleft A:link {52
 
 	COLOR: #ffffff; TEXT-DECORATION: none
@@ -47,12 +48,12 @@ BODY {
 
 
 <a href="http://amer008.great-site.net" style="color:#FF00FF" target="_blank">drive-1</a>|
-<a href="http://ttt0090.rf.gd" style="color:#FF00FF" target="_blank">drive2</a>|
+
 <a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
 
 <a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
 
-<a href="https://fff0090.free.nf/index.php" style="color:#FF00FF" target="_blank">fff0090</a>|
+
 <a href="https://bbb0090.free.nf/" style="color:#FF00FF" target="_blank">bbb0090</a>|
 <a href="https://ccc0090.free.nf/" style="color:#FF00FF" target="_blank">ccc0090</a>|
 
@@ -752,4 +753,3 @@ xshellz</a>|
 
 
 <!--下表结束--></body></html>
-
