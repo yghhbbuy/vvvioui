@@ -60,7 +60,6 @@ BODY {
 <a href="https://jjj0090.free.nf/" style="color:#FF00FF" target="_blank">jjj0090</a>|
 
 
-<a href="https://rrr0090.free.nf" style="color:#FF00FF" target="_blank">rrr0090.nf</a>|
 <a href="https://ttt0090.free.nf" style="color:#FF00FF" target="_blank">ttt0090</a>|
 <a href="https://tttt.free.nf" style="color:#FF00FF" target="_blank">tttt</a>|
 
