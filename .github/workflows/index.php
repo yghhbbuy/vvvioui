@@ -400,8 +400,7 @@ xshellz</a>|
 <a href="https://www.fastssh.com/page/create-v2ray-account/server/676714/v2ray-usa-1/" style="color:#FF00FF" target="_blank">fastssh-2</a>|
 <a href="https://alist-skype.koyeb.app/" style="color:#FF00FF" target="_blank">sshwifty-2</a>|
 <a href="https://web.skype.com" style="color:#FF00FF" target="_blank">web-skype</a>|
-<a href="https://alist-skype.koyeb.app/" style="color:#FF00FF" target="_blank"> koyeb-rn2</a>|
-<a href="https://ssh-koyebks1ks5ea8s.koyeb.app/User/Home" style="color:#FF00FF" target="_blank"> koyeb-rn3</a>|
+
 
    </div></td></tr><tr>
     <td>
@@ -415,8 +414,7 @@ xshellz</a>|
 
 <a href="https://bitter-sponge-chive.glitch.me/" style="color:#FF00FF" target="_blank">one-1</a>|
 <a href="http://taiweryujjj1235.alwaysdata.net/" style="color:#FF00FF" target="_blank">one-2</a>|
-<a href="https://vvv--fff009023.repl.co/" style="color:#FF00FF" target="_blank">one-3</a>|
-<a href="https://do--fff009011.repl.co/" style="color:#FF00FF" target="_blank">one-4</a>|
+
 
 <a href="https://howdy.id/create-cloud-obfs-hosting/vpn-server11/server-america-2/" style="color:#FF00FF" target="_blank">howdy</a>|
 
