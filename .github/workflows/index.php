@@ -112,8 +112,8 @@ BODY {
 <a href="https://m01.huidu520.com/#/login" style="color:#FF00FF" target="_blank">灰度</a>| 
 <a href="https://etempmail.com/" style="color:#FF00FF" target="_blank">edu-one</a>| 
 <a href="https://web2.52pokemon.cc/register?code=bhBlEn4q" style="color:#FF00FF" target="_blank">宝可梦星云</a>| 
-<a href="https://1.cloud.gov.huaweiconsumer.cfd/login" style="color:#FF00FF" target="_blank">momo加速</a>| 
-<a href="https://www.nove.cc/#/login" style="color:#FF00FF" target="_blank">nove加速</a>| 
+
+
 <a href="https://my.pianyi.info/#/login" style="color:#FF00FF" target="_blank">随便加速</a>| 
 <a href="https://m.51wukong.org/?l=8" style="color:#FF00FF" target="_blank">悟空加速</a>| 
 <a href="https://passwall.link/#/login" style="color:#FF00FF" target="_blank">passwall</a>| 
