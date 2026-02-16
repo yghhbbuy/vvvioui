@@ -417,8 +417,6 @@ xshellz</a>|
 <a href="http://taiweryujjj1235.alwaysdata.net/" style="color:#FF00FF" target="_blank">one-2</a>|
 <a href="https://vvv--fff009023.repl.co/" style="color:#FF00FF" target="_blank">one-3</a>|
 <a href="https://do--fff009011.repl.co/" style="color:#FF00FF" target="_blank">one-4</a>|
-<a href="https://to--fff00901.repl.co/" style="color:#FF00FF" target="_blank">one-5</a>|
-<a href="https://go--fff0090.repl.co/" style="color:#FF00FF" target="_blank">one-6</a>|
 
 <a href="https://howdy.id/create-cloud-obfs-hosting/vpn-server11/server-america-2/" style="color:#FF00FF" target="_blank">howdy</a>|
 
