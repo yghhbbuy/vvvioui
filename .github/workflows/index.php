@@ -59,7 +59,7 @@ BODY {
 
 <a href="https://yyyy.free.nf/" style="color:#FF00FF" target="_blank">yyyy</a>|
 <a href="https://zjhy.xo.je/" style="color:#FF00FF" target="_blank">zjhy</a>|
-
+<a href="https://y0sw0uyzstuh.alwaysdata.net/" style="color:#FF00FF" target="_blank">y0sw0uyzstuh</a>|
 
 <a href="https://kingpp869.alwaysdata.net/" style="color:#FF00FF" target="_blank">kingpp869</a>|
 
