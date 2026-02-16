@@ -71,15 +71,7 @@ BODY {
 
 <a href="https://amer6677.alwaysdata.net/one/" style="color:#FF00FF" target="_blank">amer6677-one</a>|
 
-<a href="https://ttt0090.my-place.us/" style="color:#FF00FF" target="_blank">ttt0090-us</a>|
 
-
-
-
-
-<a href="https://tpwhokyoqnxs.cloud.cloudcat.one/" style="color:#FF00FF" target="_blank">cloudcat</a>|
-
-<a href="https://ttt0090.hostingem.ru" style="color:#FF00FF" target="_blank">hostingem</a>|
 <a href="http://ttt0090.my-place.us" style="color:#FF00FF" target="_blank">place</a>|
 
 
@@ -120,7 +112,7 @@ BODY {
 <a href="https://zouma.guanhua.xyz/login" style="color:#FF00FF" target="_blank">不知名</a>| 
 <a href="https://www.acfic.org.cn/shixin/new/index.html" style="color:#FF00FF" target="_blank">失信查询</a>| 
 <a href="https://poe.com/login" style="color:#FF00FF" target="_blank">poe</a>| 
-<a href="http://ttt0090.rf.gd" style="color:#FF00FF" target="_blank">ttt0090</a>| 
+
 <a href="https://dash.infinityfree.com/login" style="color:#FF00FF" target="_blank">infinityfree</a>| 
 
  </div></td><td>
@@ -277,8 +269,8 @@ hyperbeam</a>|
 
 <a href="https://rgp8-my.sharepoint.com/personal/admin1106_rgp8_onmicrosoft_com/_layouts/15/onedrive.aspx?login_hint=admin1106%40rgp8%2Eonmicrosoft%2Ecom&view=0" style="color:#FF00FF" target="_blank">onedrive-admin1106</a>|
 <a href="https://webmail.alwaysdata.com/roundcube/?_task=mail&_mbox=INBOX" style="color:#FF00FF" target="_blank">mail-alwaysdata</a>|
-<a href="https://cloud.tencent.com/developer/article/1830512" style="color:#FF00FF" target="_blank">
-SSHwifty的部署</a>|<a href="https://newserv.freewha.com/freewha.cpanel" style="color:#FF00FF" target="_blank">
+
+<a href="https://newserv.freewha.com/freewha.cpanel" style="color:#FF00FF" target="_blank">
 freewha.cpanel</a>|
 <a href="https://phpmyadmin.alwaysdata.com/" style="color:#FF00FF" target="_blank">
 always-sql</a>|
@@ -473,7 +465,7 @@ xshellz</a>|
     <br>
     <a href="https://dmesg.app/argo-tunnel.html/amp" style="color:#FF00FF" target="_blank">Cloudflare Argo Tunnel</a>|
 <a href="https://cxixc.com/303.html" style="color:#FF00FF" target="_blank">X-ui可视化面板</a>|
-<a href="https://wiki.hax.co.id/ipv6-servers/how-to-deploy-a-telegram-userbot-on-ipv6-vps/" style="color:#FF00FF" target="_blank">How to deploy a Telegram userbot</a>|
+
 <a href="https://www.otakusay.com/409.html" style="color:#FF00FF" target="_blank">improv.mx</a>|
 <a href="https://hityne.com/258.html" style="color:#FF00FF" target="_blank">安装ftp服务器</a>|
     </div></form></div></form></div></td><td>
