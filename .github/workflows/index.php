@@ -219,6 +219,8 @@ BODY {
 
 
 
+<a href="https://business.gemini.google/" style="color:#FF00FF" target="_blank">gemimi</a>|
+
 
 
 
