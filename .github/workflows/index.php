@@ -217,6 +217,7 @@ BODY {
 
 <a href="https://ytnkzrasgjtf.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-1</a>|
 
+<a href="https://borjijifxnnt.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-2</a>|
 
 
 <a href="https://business.gemini.google/" style="color:#FF00FF" target="_blank">gemimi</a>|
