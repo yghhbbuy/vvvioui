@@ -223,6 +223,8 @@ BODY {
 
 <a href="https://rdbooakhtaoh.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-4</a>|
 
+<a href="https://bhbpgqqhbuad.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-5</a>|
+
 
 <a href="https://business.gemini.google/" style="color:#FF00FF" target="_blank">gemimi</a>|
 
