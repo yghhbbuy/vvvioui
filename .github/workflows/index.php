@@ -215,7 +215,7 @@ BODY {
 <a href="https://console.run.claw.cloud/" style="color:#FF00FF" target="_blank">claw</a>|
 
 
-<a href="https://jjklglyubyay.us-east-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-1</a>|
+<a href="https://ytnkzrasgjtf.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-1</a>|
 
 
 
