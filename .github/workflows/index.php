@@ -122,7 +122,7 @@ BODY {
 <a href="https://zouma.guanhua.xyz/login" style="color:#FF00FF" target="_blank">不知名</a>| 
 <a href="https://www.acfic.org.cn/shixin/new/index.html" style="color:#FF00FF" target="_blank">失信查询</a>| 
 <a href="https://poe.com/login" style="color:#FF00FF" target="_blank">poe</a>| 
-<a href="http://ttt0090.rf.gd" style="color:#FF00FF" target="_blank">ttt0090</a>| 
+
 <a href="https://dash.infinityfree.com/login" style="color:#FF00FF" target="_blank">infinityfree</a>| 
 
  </div></td><td>
