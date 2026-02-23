@@ -125,6 +125,10 @@ BODY {
 
 <a href="https://dash.infinityfree.com/login" style="color:#FF00FF" target="_blank">infinityfree</a>| 
 
+
+<a href="http://ssh ttt0090@tcp.us-west-1.clawcloudrun.com -p 43665" style="color:#FF00FF" target="_blank">ssh-1</a>| 
+
+
  </div></td><td>
 </td></tr></tbody><tbody>
     <tr>
@@ -213,6 +217,7 @@ BODY {
 
 
 <a href="https://console.run.claw.cloud/" style="color:#FF00FF" target="_blank">claw</a>|
+<a href="https://us-west-1.run.claw.cloud/" style="color:#FF00FF" target="_blank">claw-usw</a>|
 
 
 <a href="https://ytnkzrasgjtf.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-1</a>|
