@@ -82,11 +82,12 @@ BODY {
 
 <a href="https://kkkkk.gt.tc" style="color:#FF00FF" target="_blank">kkkkk</a>|
 
+<a href="https://yyyy.42web.io/" style="color:#FF00FF" target="_blank">42web</a>|
+
 
 <a href="https://tpwhokyoqnxs.cloud.cloudcat.one/" style="color:#FF00FF" target="_blank">cloudcat</a>|
 
 <a href="https://ttt0090.hostingem.ru" style="color:#FF00FF" target="_blank">hostingem</a>|
-<a href="http://ttt0090.my-place.us" style="color:#FF00FF" target="_blank">place</a>|
 
 
 <a href="https://app.multcloud.com/mc_project/task_list" style="color:#FF00FF" target="_blank">mu</a>|
