@@ -5,4 +5,63 @@ cd ..
 
 
 
+# --- 配置区 ---
+FTP_SERVER="185.27.134.11"
+REMOTE_DOCS="htdocs/230130"
+REMOTE_2026="htdocs/2026"
+COOL_DOWN=45
+
+# --- 任务指令模板 ---
+# 任务A: 处理 230130 目录
+TASK_A="mirror -R ./wwwww $REMOTE_DOCS; mrm $REMOTE_DOCS/*.json.*"
+# 任务B: 同时处理 230130 和 2026 目录
+TASK_B="$TASK_A; mirror -R ./2026 $REMOTE_2026; mrm $REMOTE_2026/*.pdf.*"
+
+Run_ftp() {
+    local user=$1
+    local pass=$2
+    local cmds=$3
+
+    echo "------------------------------------------"
+    echo "🚀 正在同步账号: $user"
+    
+    # 清理旧进程，确保连接数不超标
+    pkill -9 lftp > /dev/null 2>&1
+
+    lftp -u "$user","$pass" ftp://$FTP_SERVER -e "
+        set ftp:passive-mode on; 
+        set ssl:verify-certificate no; 
+        set net:connection-limit 1; 
+        set net:max-retries 2;
+        set net:timeout 30;
+        $cmds; 
+        bye"
+
+    if [ $? -eq 0 ]; then
+        echo "✅ 账号 $user 同步成功"
+    else
+        echo "❌ 账号 $user 执行过程中可能存在错误"
+    fi
+
+    echo "⏳ 进入冷却时间 (${COOL_DOWN}s)，规避 IP 封锁..."
+    sleep $COOL_DOWN
+}
+
+# --- 执行区 ---
+
+# 使用任务 A 的账号
+Run_ftp "if0_40870860" "AAH9AN6mSCf0Xje" "$TASK_A"
+Run_ftp "if0_41038294" "dXtTPJ5R1St"    "$TASK_A"
+Run_ftp "if0_41271182" "BPJhhbAWEAZAT2G"  "$TASK_A"
+Run_ftp "if0_41224924" "azOwJAaskxX"   "$TASK_A"
+
+# 使用任务 B 的账号 (包含 2026 目录)
+Run_ftp "if0_41226805" "Ofv7XTmtfmB"    "$TASK_B"
+Run_ftp "if0_41235236" "aaQ8VvWjfXM091" "$TASK_B"
+
+# --- 收尾 ---
+echo "🧹 清理本地临时文件..."
+find . -name "*.json.*" -delete
+echo "✨ 全部操作已完成！"
+
 rm -rf *.json.*
