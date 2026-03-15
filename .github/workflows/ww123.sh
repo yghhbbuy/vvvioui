@@ -13,9 +13,9 @@ lftp -u if0_41271182,BPJhhbAWEAZAT2G ftp://185.27.134.11 -e "set ftp:passive-mod
 lftp -u if0_41271182,BPJhhbAWEAZAT2G ftp://185.27.134.11 -e "set ssl:verify-certificate no; mrm htdocs/230130/*.json.*; bye"
 
 
-lftp -u if0_41224924,azOwJAaskxX ftp://185.27.134.11 -e "set ftp:passive-mode on; set ssl:verify-certificate no; mirror -R ./wwwww htdocs/230130; bye"
+lftp -u if0_40929541,3vpHv2yq6JT ftp://185.27.134.11 -e "set ftp:passive-mode on; set ssl:verify-certificate no; mirror -R ./wwwww htdocs/230130; bye"
 
-lftp -u if0_41224924,azOwJAaskxX ftp://185.27.134.11 -e "set ssl:verify-certificate no; mrm htdocs/230130/*.json.*; bye"
+lftp -u if0_40929541,3vpHv2yq6JT ftp://185.27.134.11 -e "set ssl:verify-certificate no; mrm htdocs/230130/*.json.*; bye"
 lftp -u if0_41226805,Ofv7XTmtfmB ftp://185.27.134.11 -e "set ftp:passive-mode on; set ssl:verify-certificate no; mirror -R ./wwwww htdocs/230130; bye"
 
 lftp -u if0_41226805,Ofv7XTmtfmB ftp://185.27.134.11 -e "set ssl:verify-certificate no; mrm htdocs/230130/*.json.*; bye"
