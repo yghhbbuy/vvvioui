@@ -53,7 +53,7 @@ Run_ftp() {
 Run_ftp "if0_40870860" "AAH9AN6mSCf0Xje" "$TASK_A"
 Run_ftp "if0_41038294" "dXtTPJ5R1St"    "$TASK_A"
 Run_ftp "if0_41271182" "BPJhhbAWEAZAT2G"  "$TASK_A"
-Run_ftp "if0_41224924" "azOwJAaskxX"   "$TASK_A"
+Run_ftp "if0_40929541" "3vpHv2yq6JT"   "$TASK_A"
 
 # 使用任务 B 的账号 (包含 2026 目录)
 Run_ftp "if0_41226805" "Ofv7XTmtfmB"    "$TASK_B"
