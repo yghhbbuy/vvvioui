@@ -56,7 +56,7 @@ Run_ftp "if0_41271182" "BPJhhbAWEAZAT2G"  "$TASK_A"
 Run_ftp "if0_40929541" "3vpHv2yq6JT"   "$TASK_A"
 
 # 使用任务 B 的账号 (包含 2026 目录)
-Run_ftp "if0_41226805" "Ofv7XTmtfmB"    "$TASK_B"
+Run_ftp "if0_41399455" "KUS4FNUnlWjq3"    "$TASK_B"
 Run_ftp "if0_41235236" "aaQ8VvWjfXM091" "$TASK_B"
 
 # --- 收尾 ---
