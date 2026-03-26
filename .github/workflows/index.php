@@ -57,7 +57,7 @@ BODY {
 <a href="https://bbb0090.free.nf/" style="color:#FF00FF" target="_blank">bbb0090</a>|
 
 
-<a href="https://yyyy.free.nf/" style="color:#FF00FF" target="_blank">yyyy</a>|
+<a href="https://yyyy.xo.je/" style="color:#FF00FF" target="_blank">yyyy</a>|
 <a href="https://zjhy.xo.je/" style="color:#FF00FF" target="_blank">zjhy</a>|
 
 
