@@ -51,7 +51,7 @@ Run_ftp() {
 
 # 使用任务 A 的账号
 Run_ftp "if0_41481518" "tE8tE41uAS" "$TASK_A"
-Run_ftp "if0_41038294" "dXtTPJ5R1St"    "$TASK_A"
+Run_ftp "if0_41502715" "0QAMr4wMoZPu"    "$TASK_A"
 Run_ftp "if0_41441531" "J3UAIf25FOobGS"  "$TASK_A"
 Run_ftp "if0_41441505" "720LoVFVCX8vM"   "$TASK_A"
 
