@@ -20,3 +20,6 @@ ghcr.io/vevc/ubuntu:25.7.14
 
 chmod +x /usr/local/bin/OneDriveUploader
 wget https://raw.githubusercontent.com/MoeClub/OneList/master/OneDriveUploader/amd64/linux/OneDriveUploader -P /usr/local/bin/
+
+
+
