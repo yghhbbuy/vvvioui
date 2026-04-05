@@ -155,7 +155,7 @@ BODY {
 <a href="https://www.oracle.com/cn/cloud/free/" style="color:#FF00FF" target="_blank">甲骨文云</a>|
 <a href="https://www.cloudflare.com/zh-cn/" style="color:#ff00ff" target="_blank">cloudflare</a>|
 <a href="https://portal.office.com/" style="color:#FF00FF" target="_blank">office 365</a>|
-<a href="https://outlook.office.com/mail/?realm=54z5z7.onmicrosoft.com&login_hint=koyeb313@54z5z7.onmicrosoft.com/" style="color:#FF00FF" target="_blank">outlook 365</a>|
+<a href="https://outlook.office.com/mail/" style="color:#FF00FF" target="_blank">outlook 365</a>|
 
 <a href="https://admin.microsoft.com" style="color:#FF00FF" target="_blank">admin</a>|
 
