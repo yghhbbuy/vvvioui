@@ -57,7 +57,7 @@ Run_ftp "if0_41441505" "720LoVFVCX8vM"   "$TASK_A"
 
 # 使用任务 B 的账号 (包含 2026 目录)
 Run_ftp "if0_41399455" "KUS4FNUnlWjq3"    "$TASK_B"
-Run_ftp "if0_41235236" "aaQ8VvWjfXM091" "$TASK_B"
+Run_ftp "if0_41632421" "Pjt2U3VHlSgvHZ" "$TASK_B"
 
 # --- 收尾 ---
 echo "🧹 清理本地临时文件..."
