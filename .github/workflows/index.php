@@ -58,7 +58,7 @@ BODY {
 
 
 <a href="https://yyyy.xo.je/" style="color:#FF00FF" target="_blank">yyyy</a>|
-<a href="https://zjhy.ct.ws" style="color:#FF00FF" target="_blank">zjhy</a>|
+<a href="https://zjhy.gt.tc" style="color:#FF00FF" target="_blank">zjhy</a>|
 
 
 <a href="https://y0sw0uyzstuh.alwaysdata.net/" style="color:#FF00FF" target="_blank">y0sw0uyzstuh</a>|
