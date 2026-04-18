@@ -37,6 +37,9 @@ run_ftp "if0_40870787" "yVjMGLIT4VlW"  "mirror -R ./wwwww htdocs/230130; mrm htd
 run_ftp "if0_40929541" "3vpHv2yq6JT"   "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*"
 run_ftp "if0_41399455" "KUS4FNUnlWjq3"    "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*; mirror -R ./2026 htdocs/2026; mrm htdocs/2026/*.pdf.*"
 run_ftp "if0_41235236" "aaQ8VvWjfXM091" "mirror -R ./wwwww htdocs/230130; mirror -R ./2026 htdocs/2026; mrm htdocs/230130/*.json.*; mrm htdocs/2026/*.pdf.*"
+run_ftp "if0_41690452" "GgVfgQchFW"    "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*; mirror -R ./2026 htdocs/2026; mrm htdocs/2026/*.pdf.*"
+
+
 
 # 4. 最后收尾
 rm -rf *.json.*
