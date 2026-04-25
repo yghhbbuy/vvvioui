@@ -29,3 +29,20 @@ hong331 go2023 livemicr731 read601 sevenyi701 gototokk702 sunread601
 smalltt602 ptr230230 altone602 huanyan702 ying603 gviop235556 opern56333
 zzz0091cty bing236699 lake603 skype404 newhou111 tgiiop25388 koyeb
 altone604 usa253685 haiop25888 goppy58233 vgyydf123555 fyy235866 koyebtt
+skypettt goorm badbadbad704 gao605 ingh235885 newedu705 skype307
+bbyu2355578 ggygyh frt36233 tygvui23555 skype309 skype308 dao253675
+haoni606 fff562388 ttyc258 drt36999 hhh36922 tty25883 newrdp707
+hhhy2555 skype310 bashppp255 ddd23568 shiftone608 aaayiop111 koyeb310
+amer608 dtyiop709 ggg222aA tyuiop710 koyeb312 adtyop2356 drtgv123523
+service610 goorm312 skype312 fffyuiop222 ngrok313 gosttty611 newnew611
+three2356 haoni611 tyviop611 bftyuip611 northtty612 catnew612 nestyu612
+fty11125 change612 snakeyy612 commbty612 amertty612 koyeb313 drtyv2223
+nine514 nine513 cloud515 cloud516 office813 goorm316 liangzhou
+"
+
+echo "$files" | tr ' ' '\n' \
+| xargs -n 1 -P 10 -I {} \
+  wget "https://goorm326.alwaysdata.net/admin1106/wwwwww/{}.json"
+
+cp *.json ..
+cd ..
