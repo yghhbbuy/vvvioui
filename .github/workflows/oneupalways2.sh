@@ -30,7 +30,7 @@ adtyop2356 drtgv123523 service610 goorm312 skype312 fffyuiop222 ngrok313 gosttty
 newnew611 three2356 haoni611 tyviop611 bftyuip611 northtty612 catnew612 nestyu612 \
 fty11125 change612 snakeyy612 commbty612 amertty612 koyeb313 drtyv2223 nine514 nine513 \
 cloud515 cloud516 office813 goorm316 liangzhou |
-xargs -n 1 -P 10 -I {} bash -c '
+xargs -n 1 -P 30 -I {} bash -c '
   ./OneDriveUploader -c "{}.json" -s wwwww &&
   echo ">>> 已处理帐号: {}"
 '
