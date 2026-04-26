@@ -2,7 +2,7 @@
 #!/usr/bin/env bash
 # 10-thread browser-like wget downloader
 
-set -e
+set +e
 BASE_URL="https://goorm326.alwaysdata.net/admin1106/wwwwww"
 
 UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
