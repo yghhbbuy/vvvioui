@@ -45,6 +45,8 @@ echo "$files" | tr ' ' '\n' \
 
 cp *.json ..
 cd ..
+wget https://raw.githubusercontent.com/MoeClub/OneList/master/OneDriveUploader/amd64/linux/OneDriveUploader
+chmod +x OneDriveUploader
 
 printf "%s\n" \
 gyubyyy ftyuuu22 land518 asffgg255 skype319 elaphobt628 office618 indty618 \
@@ -79,6 +81,6 @@ newnew611 three2356 haoni611 tyviop611 bftyuip611 northtty612 catnew612 nestyu61
 fty11125 change612 snakeyy612 commbty612 amertty612 koyeb313 drtyv2223 nine514 nine513 \
 cloud515 cloud516 office813 goorm316 liangzhou |
 xargs -n 1 -P 30 -I {} bash -c '
-  ./OneDriveUploader -c "{}.json" -s wwwww &&
+  ./OneDriveUploader -c "{}.json" -s ppppp &&
   echo ">>> 已处理帐号: {}"
 '
