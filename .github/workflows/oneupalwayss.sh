@@ -1,6 +1,10 @@
 
 #!/usr/bin/env bash
 # 10-thread browser-like wget downloader
+ls -l /home
+sudo chown -R $USER:$USER /home/$USER
+rm -rf lost+found/
+
 rm -rf ppppp
 set +e
 BASE_URL="https://goorm326.alwaysdata.net/admin1106/wwwwww"
