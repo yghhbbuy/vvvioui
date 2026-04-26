@@ -41,7 +41,7 @@ nine514 nine513 cloud515 cloud516 office813 goorm316 liangzhou
 
 echo "$files" | tr ' ' '\n' \
 | xargs -n 1 -P 10 -I {} \
-  wget "https://goorm326.alwaysdata.net/admin1106/ppppp/{}.json"
+  wget "https://goorm326.alwaysdata.net/admin1106/wwwwww/{}.json"
 
 cp *.json ..
 cd ..
