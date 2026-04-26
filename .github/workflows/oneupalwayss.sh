@@ -1,3 +1,6 @@
+mkdir -p ppppp
+
+
 printf "%s\n" \
 gyubyyy ftyuuu22 land518 asffgg255 skype319 elaphobt628 office618 indty618 \
 vyucty111 tm380619 apple619 tttsix619 cow619 norhy619 startty620 zj216 five621 \
