@@ -1,7 +1,7 @@
 mkdir -p ppppp
 cd ppppp || exit 1
 files="
-gyubyyy ftyuuu22 land518 asffgg255 skype319 elaphobt628 office618 indty618
+ftyuuu22 land518 asffgg255 skype319 elaphobt628 office618 indty618
 vyucty111 tm380619 apple619 tttsix619 cow619 norhy619 startty620 zj216
 five621 whitety622 goorm324 tryto423 office723 skype325 frtyu624 goorm326
 good327 jjjvoip625 officenew626 water328 road427 goorm727 officehy627
