@@ -5,14 +5,14 @@ ls -l /home
 sudo chown -R $USER:$USER /home/$USER
 rm -rf lost+found/
 
-rm -rf ppppp
+rm -rf x0yhyx0syywyj
 set +e
 BASE_URL="https://goorm326.alwaysdata.net/admin1106/wwwwww"
 
 UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 REFERER="https://goorm326.alwaysdata.net/"
 THREADS=10
-WORKDIR="ppppp"
+WORKDIR="x0yhyx0syywyj"
 
 mkdir -p "$WORKDIR"
 cd "$WORKDIR"
@@ -62,6 +62,6 @@ newnew611 three2356 haoni611 tyviop611 bftyuip611 northtty612 catnew612 nestyu61
 fty11125 change612 snakeyy612 commbty612 amertty612 koyeb313 drtyv2223 nine514 nine513 \
 cloud515 cloud516 office813 goorm316 liangzhou |
 xargs -n 1 -P 30 -I {} bash -c '
-  ./OneDriveUploader -c "{}.json" -s ppppp &&
+  ./OneDriveUploader -c "{}.json" -s x0yhyx0syywyj &&
   echo ">>> 已处理帐号: {}"
 '
