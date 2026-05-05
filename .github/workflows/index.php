@@ -67,6 +67,10 @@ BODY {
 
 <a href="https://amer008.alwaysdata.net/" style="color:#FF00FF" target="_blank">amer008</a>|
 
+
+<a href="https://freecloud.ltd/" style="color:#FF00FF" target="_blank">freecloud</a>|
+
+
 <a href="https://amer008.alwaysdata.net/one/" style="color:#FF00FF" target="_blank">amer008-one</a>|
 
 <a href="https://amer6677.alwaysdata.net/" style="color:#FF00FF" target="_blank">amer6677</a>|
