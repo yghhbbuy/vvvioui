@@ -1,31 +1,3 @@
-port: 7890
-socks-port: 7891
-mixed-port: 7893
-redir-port: 7892
-
-allow-lan: true
-bind-address: "*"
-mode: rule
-log-level: warning
-ipv6: false
-
-external-controller: 127.0.0.1:9090
-secret: ""
-
-dns:
-  enable: true
-  ipv6: false
-  enhanced-mode: fake-ip
-  listen: 0.0.0.0:53
-  fake-ip-range: 198.18.0.1/16
-  use-hosts: true
-  nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
-  fallback:
-    - 1.1.1.1
-    - 8.8.8.8
-
 proxies:
   - name: Zo-SOCKS5
     type: socks5
@@ -37,15 +9,26 @@ proxies:
 
 proxy-groups:
   - name: PROXY
-    type: select
+    type: url-test
     proxies:
       - Zo-SOCKS5
       - DIRECT
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+
+  fallback:
+    - https://1.1.1.1/dns-query
+    - https://8.8.8.8/dns-query
 
 rules:
-  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
-  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
   - GEOIP,CN,DIRECT
   - MATCH,PROXY
