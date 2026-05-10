@@ -9,26 +9,24 @@ proxies:
 
 proxy-groups:
   - name: PROXY
-    type: url-test
+    type: select
     proxies:
       - Zo-SOCKS5
       - DIRECT
-    url: http://www.gstatic.com/generate_204
-    interval: 300
 
+# ✅ TCP并发（提速关键）
+tcp-concurrent: true
+
+# ✅ 安全DNS（不卡、不炸）
 dns:
   enable: true
   ipv6: false
-  enhanced-mode: fake-ip
 
   nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
+    - 223.5.5.5
+    - 119.29.29.29
 
-  fallback:
-    - https://1.1.1.1/dns-query
-    - https://8.8.8.8/dns-query
-
+# ✅ 规则（国内直连，国外走代理）
 rules:
   - GEOIP,CN,DIRECT
   - MATCH,PROXY
