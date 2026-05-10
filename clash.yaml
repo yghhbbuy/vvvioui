@@ -1,0 +1,18 @@
+proxies:
+  - name: Zo-SOCKS5
+    type: socks5
+    server: ts6.zocomputer.io
+    port: 10522
+    username: node
+    password: ChangeMe-8f3b4a
+    udp: true
+
+proxy-groups:
+  - name: PROXY
+    type: select
+    proxies:
+      - Zo-SOCKS5
+      - DIRECT
+
+rules:
+  - MATCH,PROXY
