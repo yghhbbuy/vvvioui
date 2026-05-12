@@ -219,30 +219,7 @@ BODY {
 </td></tr></tbody><tbody>
     <tr>
 
-
-
-
 <td colspan="5"><div align="left">
-
-
-<a href="https://console.run.claw.cloud/" style="color:#FF00FF" target="_blank">claw</a>|
-<a href="https://us-west-1.run.claw.cloud/" style="color:#FF00FF" target="_blank">claw-usw</a>|
-
-
-<a href="https://ytnkzrasgjtf.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-1</a>|
-
-<a href="https://borjijifxnnt.ap-southeast-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-2</a>|
-
-<a href="https://hlfakbmodrtd.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-3</a>|
-
-<a href="https://rdbooakhtaoh.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-4</a>|
-
-<a href="https://bhbpgqqhbuad.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-5</a>|
-
-<a href="https://yzuskwkovcnf.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-6</a>|
-
-<a href="https://cvhievtzuzvr.us-west-1.clawcloudrun.com/" style="color:#FF00FF" target="_blank">claw-7</a>|
-
 
 
 
