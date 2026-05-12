@@ -3,6 +3,6 @@ printf '%s\n' gyubyyy ftyuuu22 land518 asffgg255 skype319 elaphobt628 office618 
 | xargs -n2 -P 5 bash -c '
   idx="$1"
   file="$2"
-  ./OneDriveUploader -c "${file}.json" -s wwwww
+  ./OneDriveUploader -c "${file}.json" -s zzzzz
   echo ">>> 已处理第 ${idx} 个帐号: ${file}"
 ' _
