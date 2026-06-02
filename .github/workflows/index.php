@@ -69,6 +69,7 @@ BODY {
 
 <a href="https://tttt.xo.je" style="color:#FF00FF" target="_blank">tttt.xo.je</a>|
 
+<a href="https://gnni-al3zuugbqb.dcdeploy.cloud/" style="color:#FF00FF" target="_blank">dcdeploy</a>|
 
 <a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
 
