@@ -132,6 +132,8 @@ BODY {
 <a href="https://www.smsonline.cloud/zh" style="color:#FF00FF" target="_blank">smsonline</a>| 
 <a href="https://www.reddit.com/?rdt=64212" style="color:#FF00FF" target="_blank">reddit</a>| 
 <a href="http://zephyr.proxy.rlwy.net:29456" style="color:#FF00FF" target="_blank">zephyr</a>| 
+
+<a href="https://2fa.run" style="color:#FF00FF" target="_blank">2fa</a>| 
 <a href="https://railway.com/dashboard" style="color:#FF00FF" target="_blank">railway</a>| 
 
 <a href="https://chatgpt.com/" style="color:#FF00FF" target="_blank">chatgpt4。</a>| 
