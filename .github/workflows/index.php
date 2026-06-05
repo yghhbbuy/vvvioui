@@ -134,6 +134,7 @@ BODY {
 <a href="http://zephyr.proxy.rlwy.net:29456" style="color:#FF00FF" target="_blank">zephyr</a>| 
 
 <a href="https://2fa.run" style="color:#FF00FF" target="_blank">2fa</a>| 
+<a href="https://ha.cca8.vip/" style="color:#FF00FF" target="_blank">hax</a>| 
 <a href="https://railway.com/dashboard" style="color:#FF00FF" target="_blank">railway</a>| 
 
 <a href="https://chatgpt.com/" style="color:#FF00FF" target="_blank">chatgpt4。</a>| 
