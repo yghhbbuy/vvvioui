@@ -102,13 +102,8 @@ BODY {
 
 
 
-<a href="https://tpwhokyoqnxs.cloud.cloudcat.one/" style="color:#FF00FF" target="_blank">cloudcat</a>|
-
-<a href="https://ttt0090.hostingem.ru" style="color:#FF00FF" target="_blank">hostingem</a>|
-
-
 <a href="https://app.multcloud.com/mc_project/task_list" style="color:#FF00FF" target="_blank">mu</a>|
-<a href="https://raw.githubusercontent.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/main/nomachine-windows10.sh" style="color:#FF00FF" target="_blank">windows10</a>|
+
 <a href="https://koyeb.ttt009000herokuappcom.workers.dev/" style="color:#FF00FF" target="_blank">koyeb</a>|
 
 <a href="https://google-ddd0090.koyeb.app/" style="color:#FF00FF" target="_blank">chat</a>|
