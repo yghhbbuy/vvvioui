@@ -1,7 +1,7 @@
 name: sixhour-06
 on:
   schedule:
-    - cron: '3 21 * * 3'  # 每周一（UTC时间周日23点）运行，对应北京时间周一早上7点
+    - cron: '3 21 * * 4'  # 每周一（UTC时间周日23点）运行，对应北京时间周一早上7点
   workflow_dispatch:  # 允许手动触发
 jobs:
   build:
