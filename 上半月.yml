@@ -17,7 +17,7 @@ jobs:
       run: Expand-Archive ngrok.zip
 
     - name: Auth ngrok
-      run: .\ngrok\ngrok.exe authtoken 2jJWcR5Gt64Ca5w0oIqPomzvjLZ_pvtmbJTLPi6DYm81CnKi
+      run: .\ngrok\ngrok.exe authtoken 2haIJHuSMMrXeQUqtkFQCrcwRs7_7xLPTM5WQctTHZ5kRQcrS
 
     - name: Enable TS
       run: Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server' -name "fDenyTSConnections" -Value 0
