@@ -47,7 +47,6 @@ BODY {
   <TD colSpan=5><div align="left">
 
 
-<a href="http://amer008.great-site.net" style="color:#FF00FF" target="_blank">drive-1</a>|
 
 <a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
 <a href="https://ttt0090.zo.space" style="color:#FF00FF" target="_blank">zo-space</a>|
