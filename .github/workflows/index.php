@@ -125,7 +125,7 @@ BODY {
 <a href="https://cnpassport.youku.com/mini_login.htm?spm=a2hww.12518357.profile.1&lang=zh_cn&appName=youku&appEntrance=youku&pid=20160317PLF000211&isMobile=true&returnUrl=https%3A%2F%2Fwww.youku.com%2F" style="color:#FF00FF" target="_blank">youku</a>| 
 <a href="https://www.smsonline.cloud/zh" style="color:#FF00FF" target="_blank">smsonline</a>| 
 <a href="https://www.reddit.com/?rdt=64212" style="color:#FF00FF" target="_blank">reddit</a>| 
-<a href="http://reseau.proxy.rlwy.net:20336/" style="color:#FF00FF" target="_blank">zephyr</a>| 
+<a href="http://hayabusa.proxy.rlwy.net:25606/" style="color:#FF00FF" target="_blank">zephyr</a>| 
 
 <a href="https://totp.danhersam.com/" style="color:#FF00FF" target="_blank">2fa</a>| 
 <a href="https://ha.cca8.vip/" style="color:#FF00FF" target="_blank">hax</a>| 
