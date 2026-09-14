@@ -1,7 +1,7 @@
 name: sixhour-09
 on:
   schedule:
-    - cron: '35 8 * * 0'  # 每周一（UTC时间周日23点）运行，对应北京时间周一早上7点
+    - cron: '3 1 * * 1'  # 每周一（UTC时间周日23点）运行，对应北京时间周一早上7点
   workflow_dispatch:  # 允许手动触发
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       run: Expand-Archive ngrok.zip
 
     - name: Auth ngrok
-      run: .\ngrok\ngrok.exe authtoken 2fuUk1jPc9BdpQi46xnvDlQKgA0_27HoqnztE1TAJZ8mff2d9
+      run: .\ngrok\ngrok.exe authtoken 2fwtaksjtH7XFMQSn51UL44OTVc_3n1Re92Sdumpf2AWTDVXm
 
     - name: Enable TS
       run: Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server' -name "fDenyTSConnections" -Value 0
