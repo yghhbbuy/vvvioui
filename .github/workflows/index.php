@@ -49,17 +49,8 @@ BODY {
 
 
 <a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
-<a href="https://ttt0090.zo.space" style="color:#FF00FF" target="_blank">zo-space</a>|
 
-<a href="https://www.govv.uk.cc" style="color:#FF00FF" target="_blank">zo-drive</a>|
-<a href="https://www.cca8.vip/" style="color:#FF00FF" target="_blank">cca8</a>|
 
-<a href="https://139.cca8.vip/" style="color:#FF00FF" target="_blank">139</a>|
-<a href="https://139.zo.space/" style="color:#FF00FF" target="_blank">139-space</a>|
-
-<a href="https://ccc0090.eu.cc/" style="color:#FF00FF" target="_blank">ccc0090</a>|
-
-<a href="https://ttt0090.eu.cc/" style="color:#FF00FF" target="_blank">ttt0090</a>|
 <a href="https://ttt.xo.je/" style="color:#FF00FF" target="_blank">ttt.xo.je</a>|
 
 <a href="https://vvv.xo.je/" style="color:#FF00FF" target="_blank">vvv.xo.je</a>|
@@ -70,7 +61,6 @@ BODY {
 
 <a href="https://900.xo.je/" style="color:#FF00FF" target="_blank">900.xo.je</a>|
 
-<a href="https://mmm.xo.je/" style="color:#FF00FF" target="_blank">mmm.xo.je</a>|
 
 <a href="https://blank.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">blank</a>|
 
