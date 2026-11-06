@@ -53,6 +53,8 @@ BODY {
 
 <a href="https://ttt.xo.je/" style="color:#FF00FF" target="_blank">ttt.xo.je</a>|
 
+<a href="https://ttt0090.x10.mx/" style="color:#FF00FF" target="_blank">ttt0090.x10.mx</a>|
+
 <a href="https://vvv.xo.je/" style="color:#FF00FF" target="_blank">vvv.xo.je</a>|
 
 <a href="https://mom5.cc" style="color:#FF00FF" target="_blank">mom5.cc</a>|
@@ -127,7 +129,6 @@ BODY {
 <a href="https://my.pianyi.info/#/login" style="color:#FF00FF" target="_blank">随便加速</a>| 
 <a href="https://m.51wukong.org/?l=8" style="color:#FF00FF" target="_blank">悟空加速</a>| 
 <a href="https://passwall.link/#/login" style="color:#FF00FF" target="_blank">passwall</a>| 
-<a href="https://zouma.guanhua.xyz/login" style="color:#FF00FF" target="_blank">不知名</a>| 
 <a href="https://www.acfic.org.cn/shixin/new/index.html" style="color:#FF00FF" target="_blank">失信查询</a>| 
 <a href="https://poe.com/login" style="color:#FF00FF" target="_blank">poe</a>| 
 
@@ -391,7 +392,6 @@ xshellz</a>|
 <a href="https://ide.goorm.io/" style="color:#FF00FF" target="_blank">goorm</a>|<a href="https://dashboard.ngrok.com/get-started/setup" style="color:#FF00FF" target="_blank">ngrok</a>|<a href="https://easypdf.com/" style="color:#FF00FF" target="_blank">转换pdf</a>|<a href="https://xin.baidu.com/" style="color:#FF00FF" target="_blank">百度信用</a>|
 <a href="https://i.xunlei.com/xluser/login.html" style="color:#FF00FF" target="_blank">迅雷云</a>|<a href="https://colab.research.google.com/notebooks/intro.ipynb?authuser=1#scrollTo=5fCEDCU_qrC0" style="color:#FF00FF" target="_blank">G计算平台</a>|
 <a href="https://notebooks.edge.devcloud.intel.com/" style="color:#FF00FF" target="_blank">平台intel</a>|
-<a href="https://jdssl.top/index.php/2023/07/21/2023vpn/" style="color:#FF00FF" target="_blank">2023最佳免费vpn方式</a>|
 
 
  </div></td></tr><tr>
@@ -496,9 +496,6 @@ xshellz</a>|
 
 <a href="http://www.website.org/" style="color:#FF00FF" target="_blank">
  website</a>|
-|<a href="https://segmentfault.com/a/1190000022301195" style="color:#FF00FF" target="_blank">wget 与 curl 命令详解</a>
-
-
 
  </div></td></tr><tr>
     <td>
