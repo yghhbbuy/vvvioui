@@ -46,7 +46,7 @@ BODY {
   <TBODY>
   <TD colSpan=5><div align="left">
 
-<a href="https://ccc.ct.wx/" style="color:#FF00FF" target="_blank">ccc.ct.wx</a>|
+<a href="https://ccc.ct.ws/" style="color:#FF00FF" target="_blank">ccc.ct.ws</a>|
 
 
 <a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
