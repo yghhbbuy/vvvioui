@@ -33,7 +33,7 @@ run_ftp() {
 # 3. 开始依次执行操作 (上传 + 删除 合并为一个会话)
 run_ftp "if0_43383306" "ux3SglEQJ2xz" "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*"
 run_ftp "if0_43016308" "agxYCnVwFL"    "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*"
-run_ftp "if0_40870787" "yVjMGLIT4VlW"  "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*"
+run_ftp "if0_43394368" "JRC29DqScaJS"  "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*"
 run_ftp "if0_40929541" "3vpHv2yq6JT"   "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*"
 run_ftp "if0_41399455" "KUS4FNUnlWjq3"    "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*; mirror -R ./2026 htdocs/2026; mrm htdocs/2026/*.pdf.*"
 run_ftp "if0_41235236" "aaQ8VvWjfXM091" "mirror -R ./wwwww htdocs/230130; mirror -R ./2026 htdocs/2026; mrm htdocs/230130/*.json.*; mrm htdocs/2026/*.pdf.*"
