@@ -49,8 +49,9 @@ BODY {
 <a href="https://ccc.ct.ws/" style="color:#FF00FF" target="_blank">ccc.ct.ws</a>|
 
 
-<a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
+<a href="https://u260809u.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">u260809u</a>|
 
+<a href="https://cool.alwaysdata.net/index.php" style="color:#FF00FF" target="_blank">cool</a>|
 
 <a href="https://ttt.xo.je/" style="color:#FF00FF" target="_blank">ttt.xo.je</a>|
 
