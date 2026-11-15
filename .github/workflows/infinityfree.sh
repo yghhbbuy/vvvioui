@@ -2,6 +2,7 @@ for url in \
     ttt.xo.je \
     ccc.ct.ws \
     ttt.gt.tc \
+    yyy.ct.ws \
     tttt.xo.je \
     zzz.gt.tc \
     uuu.gt.tc
