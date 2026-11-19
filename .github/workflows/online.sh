@@ -1,5 +1,5 @@
 while true; do
-    for url in ttt.xo.je ccc.ct.ws ttt.gt.tc yyy.ct.ws tttt.xo.je zzz.gt.tc uuu.gt.tc vvv.xo.je 900.xo.je ttt0090.x10.mx; do
+    for url in ttt.xo.je ccc.ct.ws ttt.gt.tc yyy.ct.ws tttt.xo.je zzz.gt.tc uuu.gt.tc vvv.xo.je 900.xo.je ttt0090.x10.mx bbb0090.free.nf; do
         printf "%s %s -> " "$(date '+%F %T')" "$url"
 
         curl -s -o /dev/null \
