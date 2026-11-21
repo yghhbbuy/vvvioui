@@ -59,7 +59,6 @@ BODY {
 
 <a href="https://vvv.xo.je/" style="color:#FF00FF" target="_blank">vvv.xo.je</a>|
 
-<a href="https://mom5.cc" style="color:#FF00FF" target="_blank">mom5.cc</a>|
 
 <a href="https://tttt.xo.je" style="color:#FF00FF" target="_blank">tttt.xo.je</a>|
 
