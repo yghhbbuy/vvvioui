@@ -37,9 +37,7 @@ run_ftp "if0_43394368" "JRC29DqScaJS"  "mirror -R ./wwwww htdocs/230130; mrm htd
 run_ftp "if0_43394579" "KNfNaqjWy3xKk"   "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*"
 run_ftp "if0_43403465" "WUDNh8oj2lC"    "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*; mirror -R ./2026 htdocs/2026; mrm htdocs/2026/*.pdf.*"
 run_ftp "if0_43443438" "54eLJn1KObpR" "mirror -R ./wwwww htdocs/230130; mirror -R ./2026 htdocs/2026; mrm htdocs/230130/*.json.*; mrm htdocs/2026/*.pdf.*"
-
-
-run_ftp "if0_41690452" "GgVfgQchFW"    "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*; mirror -R ./2026 htdocs/2026; mrm htdocs/2026/*.pdf.*"
+run_ftp "if0_43503359" "IuWqPeMtzFUlMy"    "mirror -R ./wwwww htdocs/230130; mrm htdocs/230130/*.json.*; mirror -R ./2026 htdocs/2026; mrm htdocs/2026/*.pdf.*"
 
 
 
